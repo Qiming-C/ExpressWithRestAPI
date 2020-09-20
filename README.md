@@ -7,8 +7,9 @@
 
 
 # Nodemon
-### for those want to see the change immediately after edit de code 
+### for those want to see the change immediately after edit the code 
 ### `nodemon index.js`
 
-### change port number
-### `export PORT=portnumber`
+### change port number in terminal 
+### `export PORT=portnumber`  
+#### which change the environmental variable
